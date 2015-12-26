@@ -1,5 +1,7 @@
 # 从 ACG 中学习算法
 ## About Translation
+
+[![Join the chat at https://gitter.im/dsh0416/learning-algorithms-from-acg](https://badges.gitter.im/dsh0416/learning-algorithms-from-acg.svg)](https://gitter.im/dsh0416/learning-algorithms-from-acg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **Note: This book is written in Simplified Chinese for now. There's NOT an official plan to translate this into other languages yet. If you are in need of translated version of this book, please open an [issue](https://github.com/dsh0416/learning-algorithms-from-acg/issues) to let me know.**
 
 ## 许可
